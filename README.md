@@ -18,6 +18,7 @@
    pip install pillow qrcode
 
 3. Запустите программу:
+   ```bash
     python main.py
 
 ## Использование
